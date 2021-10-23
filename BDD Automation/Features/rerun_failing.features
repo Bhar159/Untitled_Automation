@@ -1,0 +1,7 @@
+# -- RERUN: 5 failing scenarios during last test run.
+HealthCheck.feature:10
+HealthCheck.feature:15
+HealthCheck.feature:20
+HealthCheck.feature:24
+HealthCheck.feature:29
+
